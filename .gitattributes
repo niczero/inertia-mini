@@ -1,0 +1,7 @@
+* text=auto
+*.css linguist-vendored
+*.js linguist-vendored
+*.pl linguist-language=Perl
+*.pm linguist-language=Perl
+*.t linguist-language=Perl
+readme.md export-ignore

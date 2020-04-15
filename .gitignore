@@ -1,0 +1,6 @@
+/data
+/local
+/log
+/node_modules
+/public/dist
+npm-debug.log
